@@ -1,2 +1,2 @@
 # Machine-Learning-Practice
-Place to store introductory ML projects!
+Place to store introductory ML projects.
